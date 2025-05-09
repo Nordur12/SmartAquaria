@@ -1,3 +1,3 @@
-functions/monitor-firebase/*.json
-functions/Notification/*.json
-functions/Secrets/*.json
+Supabase/functions/monitor-firebase/*.json
+Supabase/functions/Notification/*.json
+Supabase/functions/Secrets/*.json
